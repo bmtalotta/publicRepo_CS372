@@ -1,1 +1,1 @@
-this makes a merge conflict.
+this makes a merge conflict now. 
