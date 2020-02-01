@@ -1,1 +1,2 @@
 this makes a merge conflict now. 
+now this makes a merge conflict.
